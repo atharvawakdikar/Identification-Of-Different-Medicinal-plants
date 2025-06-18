@@ -43,7 +43,6 @@ OpenCV and TensorFlow libraries
 Clone the Repository:
 
 bash
-git clone https://github.com/your-repo/medicinal-plant-identifier.git
 cd medicinal-plant-identifier
 Install Dependencies:
 
