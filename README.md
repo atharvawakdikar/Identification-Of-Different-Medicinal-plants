@@ -113,6 +113,10 @@ Lecun, Y., et al. (2015). "Deep learning." Nature.
 
 Russakovsky, O., et al. (2015). "Imagenet large scale visual recognition challenge." IJCV.
 
+**License**
+
+© 2024 S.B. Jain Institute of Technology, Management & Research. This project is academic in nature and shared for educational purposes.
+
 **Acknowledgments**
 
 We would like to thank our guide, Prof. Mayuri Getme, and our institution for their support and guidance throughout this project.
