@@ -112,3 +112,7 @@ Joly, A., et al. (2018). "LifeCLEF plant identification task 2018: The arrival o
 Lecun, Y., et al. (2015). "Deep learning." Nature.
 
 Russakovsky, O., et al. (2015). "Imagenet large scale visual recognition challenge." IJCV.
+
+**Acknowledgments**
+
+We would like to thank our guide, Prof. Mayuri Getme, and our institution for their support and guidance throughout this project.
